@@ -1,0 +1,15 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+langchain-community
+huggingface_hub
+InstructorEmbedding
+torch
+sentence-transformers==2.2.2
+langchain-pinecone==0.0.3
